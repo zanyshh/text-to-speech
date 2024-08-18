@@ -28,10 +28,11 @@ text_entry.pack(pady=10,padx=10)
 speak_button = tk.CTkButton(app,
                            text='speak',
                            command=speak,
-                           fg_color=('#00afb9','#a2d2ff'),
-                           width=10,
-                           height=10)
-speak_button.pack(pady=10)
+                           fg_color=('#00afb9'),
+                           hover_color=('#005f73'),
+                           width=100,
+                           height=40)
+speak_button.pack(pady=20)
 
 app.mainloop()
 
