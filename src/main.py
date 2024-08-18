@@ -14,7 +14,7 @@ def speak():
 app = tk.CTk()
 app.title('Text-to-Speech')
 app.geometry('400x300')
-app.iconbitmap('text-to-speech/resources/text-to-voice.ico')
+app.iconbitmap('text-to-speech/resources/text-to-speech.ico')
 
 # Entry label on window
 text_entry = tk.CTkEntry(app,
