@@ -1,6 +1,6 @@
 ## text-to-speech
 
-![text-to-speech-md](/resources/text-to-speech-md.png)
+![text-to-speech-demo](/resources/text-to-speech-demo.png)
 
 ### Description
   this Python application uses Tkinter and Pyttsx3 to provide a simple text-to-speech functionality. 
