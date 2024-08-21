@@ -34,5 +34,7 @@ speak_button = tk.CTkButton(app,
                            height=40)
 speak_button.pack(pady=20)
 
-app.mainloop()
+
+if __name__ == '__main__':
+   app.mainloop()
 
