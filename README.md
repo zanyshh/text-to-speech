@@ -1,7 +1,5 @@
 ## text-to-speech
-
 ![text-to-speech-demo](/resources/demo.png)
-
 ### Description
   this Python application uses Tkinter and Pyttsx3 to provide a simple text-to-speech functionality. 
   Users can enter text and press the "Speak" button to speak it aloud.
